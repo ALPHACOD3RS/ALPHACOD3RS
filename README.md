@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
-- 🔭 I’m currently working on Full Stack Android Development
+- 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning ML,AI
 - 👯 I’m looking to collaborate on Flutter, Python, Laravel...
 - 💬 Ask me about anything
