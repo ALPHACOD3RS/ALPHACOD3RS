@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 - 🔭 I’m currently working on Android Development & Backend 
-- 🌱 I’m currently learning Django, DRF
+- 🌱 I’m currently learning React.js, next.js
 - 👯 I’m looking to collaborate on Flutter, Python(Django, FastAPI)...
 - 💬 Ask me about anything
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NaolKetema-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naol-ketema-53223a224/)
